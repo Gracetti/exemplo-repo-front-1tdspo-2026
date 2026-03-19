@@ -1,2 +1,3 @@
 # Ignorando o arquivo .Ds_Store do macOS
 .Ds_Store
+package_locked.json
